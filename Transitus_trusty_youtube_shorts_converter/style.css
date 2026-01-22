@@ -1,0 +1,30 @@
+#uidiv {
+    position: fixed;
+            top: 10px;
+            right: 10px;
+            z-index: 10000;
+            padding: 10px;
+            background-color: #f9f9f9;
+            border: 1px solid #ccc;
+}
+
+.ui-div button {
+    margin-top: 5px;
+}
+
+.close-button {
+    float: right;
+}
+
+.same-window-button {
+    font-size: 17px;
+    padding: 7px;
+    background-color: #259BFF;
+    color: white;
+    width: 170px;
+}
+
+.new-window-button {
+    font-size: 17px;
+    padding: 7px;
+}
